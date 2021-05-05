@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Theme.CST2335_Final" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryBgColor</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimaryDark">@color/primaryBgColor</item>
+        <item name="backgroundColor">@color/primaryBgColor</item>
+        <item name="android:windowBackground">@color/primaryBgColor</item>
+        <item name="android:itemTextAppearance">@style/AppTheme.ItemTextStyle</item>
+    </style>
+
+    <style name="AppTheme.ItemTextStyle" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textColor">@color/black</item>
+        <item name="backgroundColor">@color/primaryBgColor</item>
+    </style>
+
+    <style name="ToolbarThemePopup" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:colorBackground">@color/primaryColor</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="ToolbarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@color/primaryColor</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="popupTheme">@style/ToolbarThemePopup</item>
+    </style>
+
+</resources>

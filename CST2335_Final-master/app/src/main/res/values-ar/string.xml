@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">البحث في The Guardians</string>
+    <string name="List">قائمة</string>
+    <string name="search">بحث</string>
+    <string name="textview">صندوق بحث</string>
+    <string name="searchFiler">اكتب لتبحث هنا</string>
+    <string name="guardianSearchBtn">ابحث عن Guardian News</string>
+    <string name="deleteSearchSB">امسح</string>
+    <string name="searchItemAD">تفاصيل</string>
+    <string name="searchItemADTitle">تفاصيل</string>
+    <string name="searchAlertTitle">ابحث تفاصيل</string>
+    <string name="searchAlertMessage">ابحث تفاصيل:</string>
+    <string name="searchAlertDelete">مسح</string>
+    <string name="searchAlertDismiss">طرد</string>
+    <string name="searchItemTitle">عنوان</string>
+    <string name="app_logo">شعار التطبيق</string>
+    <string name="searchToast">ابحث في Guarding News</string>
+    <string name="searchItemSection">مقطغ</string>
+    <string name="searchItemUrl">الرابط</string>
+    <string name="home">الرئيسية</string>
+    <string name="favourites">احفظ نتائج البحث</string>
+    <string name="user">ملف تعريفي للمستخدم</string>
+    <string name="help">مساعدة</string>
+    <string name="versionNumber">الاصدارة2.0</string>
+    <string name="open">افتح</string>
+    <string name="close">اغلق</string>
+    <string name="guardianSearchActName">ابحث</string>
+    <string name="mainActName">الرئيسية</string>
+    <string name="searchHelpMsg">أدخل البحث في مربع النص وانقر فوق بحث \ n انقر فوق عناصر البحث ثم عنوان URL لعرض
+        العناصر \ n انقر فوق "حذف" لحذف عنصر من القائمة
+    </string>
+    <string name="mainHelpMsg">هذا هو منظر المنزل ، يمكنك الوصول إلى جميع الميزات التي نقدمها من هنا!</string>
+    <string name="unavailableFeature">ميزة غير متوفرة.. المستقبل المستقبل</string>
+    <string name="userActivityName">إعدادات المستخدم</string>
+    <string name="favouritesActivityName">المقالات المحفوظة</string>
+    <string name="userName">اسم المستخدم</string>
+    <string name="allowFavourites">السماح بالمفضلة</string>
+    <string name="userNameHint">انقر لتغيير اسم المستخدم</string>
+    <string name="userAlertHint">انقر لتغيير اسم المستخدم</string>
+    <string name="save">حفظ</string>
+    <string name="userActivityHelp">انقر فوق اسم المستخدم لتعديل اسم المستخدم. انقر فوق خانة الاختيار للسماح بعمليات
+        البحث المحفوظة (مسموح افتراضيًا). انقر فوق مسح عمليات البحث المحفوظة لحذف جميع عمليات البحث المحفوظة
+    </string>
+    <string name="favouritesSnackMsg">تم تشغيل عمليات البحث المحفوظة</string>
+    <string name="off">إيقاف</string>
+    <string name="on">على</string>
+    <string name="clearFavourites">مسح عمليات البحث المحفوظة</string>
+    <string name="addToFavourite">أضف إلى المفضلة</string>
+    <string name="success">اضيف بنجاح</string>
+    <string name="deleteSuccess">حذف بنجاح</string>
+    <string name="webViewHelpMsg">يتم عرض مقالتك هنا</string>
+    <string name="webViewActivityName">متصفح الإنترنت</string>
+    <string name="noFavouritesFound">لم يتم العثور على مفضلات</string>
+    <string name="favouritesHelpMsg">أدخل البحث في TextBox وانقر فوق بحث. انقر فوق عناصر البحث ثم عنوان URL لعرض
+        العناصر. انقر فوق حذف لحذف عنصر من القائمة
+    </string>
+</resources>
